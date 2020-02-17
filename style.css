@@ -1,0 +1,25 @@
+body{
+  background-image: url('img/gunung.jpg');
+  background-size: cover;
+}
+
+.satu{
+  background-image: url('img/avocado.jpg');
+  border: 1px solid black;
+  overflow: scroll;
+  width: 600px;
+  height: 350px;
+  background-repeat: repeat-y;
+  background-color: white;
+  text-align: right;
+  color: blue;
+  font-weight: bold;
+}
+.dua{
+  text-align: left;
+  color: green;
+}
+.tiga{
+  text-align: right;
+  color: red;
+}
